@@ -11,3 +11,5 @@ hidden word.  When the player submits a guess, each letter is checked against
 the hidden word and if the letter is contained in the hidden word and is in the correct spot,
 a Bull is awarded.  If the letter is contained in the hidden word, but is not in the correct
 spot, a cow is awarded.
+
+## [Gameplay Video](https://youtu.be/cUeJrGTVxpQ)
