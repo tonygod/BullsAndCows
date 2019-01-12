@@ -148,6 +148,7 @@ void ShowBull(int32 count)
 	if (count == 0)
 		return;
 
+	// TODO make this wrap properly for >6 bulls
 	Bull MyBull;
 	for (auto bull : MyBull.bull)
 	{
@@ -164,6 +165,7 @@ void ShowCow(int32 count)
 	if (count == 0)
 		return;
 
+	// TODO make this wrap properly for >6 cows
 	Cow MyCow;
 	for (auto cow : MyCow.cow)
 	{
